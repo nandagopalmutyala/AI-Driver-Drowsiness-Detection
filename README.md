@@ -106,3 +106,16 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+# 📷 Project Outputs
+
+## Normal Condition
+![Normal](outputs/normal.png)
+
+## Drowsiness Detection
+![Fatigue](outputs/fatigue.png)
+
+## Yawning Detection
+![Yawning](outputs/yawning.png)
+
+## Facial Landmark Detection
+![Landmarks](outputs/landmarks.png)
